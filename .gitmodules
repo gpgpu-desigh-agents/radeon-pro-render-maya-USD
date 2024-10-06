@@ -1,0 +1,6 @@
+[submodule "RadeonProRenderUSD"]
+	path = RadeonProRenderUSD
+	url = git@github.com:GPGPU-Desigh-Agents/RadeonProRenderUSD.git
+[submodule "RprUsd/RenderStudioResolver"]
+	path = RprUsd/RenderStudioResolver
+	url = git@github.com:GPGPU-Desigh-Agents/RenderStudioKit.git

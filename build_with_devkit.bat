@@ -1,0 +1,1 @@
+call build_with_devkit_2024.bat
